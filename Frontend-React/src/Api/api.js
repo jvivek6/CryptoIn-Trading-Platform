@@ -1,6 +1,7 @@
 
 import axios from 'axios';
-
+const DEPLOYED = 'cryptoin-server-production-6bc2.up.railway.app';
+const LOCALHOST = 'http://localhost:5454';
 
 
 const API_BASE_URL = "cryptoin-server-production-6bc2.up.railway.app"
