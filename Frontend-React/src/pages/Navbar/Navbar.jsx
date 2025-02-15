@@ -64,7 +64,7 @@ const Navbar = () => {
 
           <p
             onClick={() => navigate("/")}
-            className="text-sm lg:text-base cursor-pointer  "
+            className="text-sm lg:text-base cursor-pointer"
           >
             Cryptoin Trading
           </p>

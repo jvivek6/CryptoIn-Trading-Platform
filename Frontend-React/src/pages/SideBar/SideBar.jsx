@@ -54,7 +54,6 @@ const menu = [
   
   { name: "Logout", path: "/", icon: <ExitIcon className="h-6 w-6" /> },
 ];
-
 const SideBar = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
